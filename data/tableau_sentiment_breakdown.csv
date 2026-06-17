@@ -1,0 +1,10 @@
+app_name,sentiment,count,percentage
+Lieferando,Negative,973,48.65
+Lieferando,Neutral,97,4.85
+Lieferando,Positive,930,46.5
+Uber Eats,Negative,1634,81.74
+Uber Eats,Neutral,68,3.4
+Uber Eats,Positive,297,14.86
+Wolt,Negative,760,38.0
+Wolt,Neutral,41,2.05
+Wolt,Positive,1199,59.95
